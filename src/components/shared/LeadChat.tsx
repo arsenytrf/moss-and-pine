@@ -331,7 +331,7 @@ export function LeadChat() {
                   <span />
                 )}
                 <span className="text-[10px] uppercase tracking-[0.22em] text-stone-400 font-bold">
-                  Calgary, AB · Plant-based
+                  Calgary, AB
                 </span>
               </div>
             </motion.div>
