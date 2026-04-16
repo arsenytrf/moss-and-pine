@@ -246,7 +246,7 @@ export function QuoteQuiz({ embedded = false }: { embedded?: boolean }) {
                 Where should we send it?
               </h3>
               <p className="text-stone-500 text-sm mb-6">
-                Drop your contact info and we&apos;ll reach out within a few hours to confirm and book.
+                Drop your contact info and we&apos;ll reach out within minutes to confirm and book.
               </p>
 
               <div className="space-y-3">
@@ -324,7 +324,7 @@ export function QuoteQuiz({ embedded = false }: { embedded?: boolean }) {
                 You&apos;re in, {contact.name.split(" ")[0]}.
               </h3>
               <p className="text-stone-500 text-base max-w-md mx-auto mb-8">
-                We got your info and we&apos;ll be in touch within a few hours to confirm timing and book you in. If it&apos;s urgent, call us at{" "}
+                We got your info and Andrey will reach out within minutes to confirm timing and book you in. If you want to skip ahead, call us at{" "}
                 <a href={company.phoneLink} className="text-forest-500 font-semibold">
                   {company.phone}
                 </a>

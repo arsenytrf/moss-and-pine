@@ -56,7 +56,7 @@ export default function ContactPage() {
             We&apos;ll <em className="text-terracotta-500 not-italic font-light italic">take it from there.</em>
           </h1>
           <p className="text-stone-600 text-lg lg:text-xl max-w-2xl leading-relaxed">
-            Same-day response, seven days a week. Call, text, email, or fill out the form — whatever works.
+            Instant quote on the website, instant response here. Call, text, email, or fill out the form — whatever works.
           </p>
         </div>
       </section>
@@ -119,7 +119,7 @@ export default function ContactPage() {
                     <ol className="space-y-3 text-sm text-cream-50/85">
                       <li className="flex gap-3">
                         <span className="text-terracotta-300 font-bold shrink-0">01</span>
-                        <span>We review your message <em className="text-cream-50 not-italic">(same day)</em></span>
+                        <span>We reach out <em className="text-cream-50 not-italic">(within minutes)</em></span>
                       </li>
                       <li className="flex gap-3">
                         <span className="text-terracotta-300 font-bold shrink-0">02</span>
@@ -148,7 +148,7 @@ export default function ContactPage() {
                         Message sent.
                       </h3>
                       <p className="text-stone-600 text-base max-w-md mx-auto">
-                        We&apos;ll be in touch within a few hours. If it&apos;s urgent, call us at{" "}
+                        We&apos;ll be in touch within minutes. If you want to skip ahead, call us at{" "}
                         <a href={company.phoneLink} className="text-forest-500 font-semibold">
                           {company.phone}
                         </a>
@@ -250,7 +250,7 @@ export default function ContactPage() {
                         {status === "loading" ? "Sending..." : "Send message"}
                       </button>
                       <p className="text-stone-400 text-xs text-center">
-                        Same-day response · No pressure · No obligation
+                        Instant response · No pressure · No obligation
                       </p>
                     </form>
                   )}

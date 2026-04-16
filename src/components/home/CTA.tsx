@@ -23,7 +23,7 @@ export function CTA() {
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-cream-50/10 border border-cream-50/15 mb-8">
             <Leaf className="w-3.5 h-3.5 text-terracotta-300" />
             <span className="text-cream-50 text-[11px] font-bold uppercase tracking-widest">
-              Book this week · Same-day response
+              Instant quote · Book this week
             </span>
           </div>
 
@@ -51,7 +51,7 @@ export function CTA() {
             </a>
           </div>
           <p className="text-cream-50/35 text-xs mt-10 tracking-wide">
-            Same-day response · No obligation · Cancel anytime
+            Instant quote · No obligation · Cancel anytime
           </p>
         </ScrollReveal>
       </div>

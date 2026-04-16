@@ -5,7 +5,7 @@ const steps = [
   {
     icon: PhoneCall,
     title: "You book",
-    description: "Call, text, or take the quiz. Tell us what needs cleaning and when. We confirm same-day.",
+    description: "Call, text, or take the quiz. Instant price estimate, instant reply, booking confirmed in minutes.",
     duration: "2 min",
   },
   {
