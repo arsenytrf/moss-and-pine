@@ -3,6 +3,7 @@ import { Fraunces, DM_Sans } from "next/font/google";
 import { Navbar } from "@/components/layout/Navbar";
 import { Footer } from "@/components/layout/Footer";
 import { StickyPhone } from "@/components/layout/StickyPhone";
+import { LeadChat } from "@/components/shared/LeadChat";
 import { LocalBusinessJsonLd } from "@/components/shared/JsonLd";
 import { company } from "@/data/company";
 import "./globals.css";
@@ -64,6 +65,7 @@ export default function RootLayout({
         <main id="main">{children}</main>
         <Footer />
         <StickyPhone phone={company.phone} />
+        <LeadChat />
       </body>
     </html>
   );
