@@ -67,8 +67,8 @@ export const reviews: Review[] = [
     author: "Jon P.",
     initial: "J",
     quote:
-      "Full car interior detail — both SUVs. Came to the driveway, two hours start to finish, looked showroom new. Pet hair removal was the real magic.",
-    project: "Car interiors — Calgary",
+      "Full sectional plus two armchairs — they were done in under two hours. Showed up on time, cleaned up completely, and the whole main floor smells incredible. Booking them again next year.",
+    project: "Sectional + armchairs — Calgary",
     rating: 5,
   },
 ];

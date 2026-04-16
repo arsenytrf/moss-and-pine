@@ -19,7 +19,7 @@ export const galleryItems: GalleryItem[] = [
   { src: "/images/gallery-3.jpg", title: "Velvet armchair — Mission", category: "Armchair" },
   { src: "/images/gallery-4.jpg", title: "King mattress sanitize — Airdrie", category: "Mattress" },
   { src: "/images/gallery-5.jpg", title: "Wool rug — Elbow Park", category: "Rug" },
-  { src: "/images/gallery-6.jpg", title: "SUV interior — Calgary", category: "Car" },
+  { src: "/images/gallery-6.jpg", title: "Linen sectional — Elbow Park", category: "Sectional" },
   { src: "/images/gallery-7.jpg", title: "Pet-damaged sofa — Cochrane", category: "Couch" },
   { src: "/images/gallery-8.jpg", title: "Restaurant booths — Downtown", category: "Commercial" },
   { src: "/images/gallery-9.jpg", title: "Microfiber sectional — Legacy", category: "Sectional" },

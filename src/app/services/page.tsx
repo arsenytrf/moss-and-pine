@@ -29,7 +29,7 @@ export default function ServicesPage() {
             <em className="text-terracotta-500 not-italic font-light italic">we can clean it.</em>
           </h1>
           <p className="text-stone-600 text-lg lg:text-xl max-w-2xl leading-relaxed">
-            Seven services, one plant-based cleaning method, zero upsells. Everything priced up front.
+            Six services, one plant-based cleaning method, zero upsells. Everything priced up front.
           </p>
         </div>
       </section>

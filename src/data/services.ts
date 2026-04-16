@@ -98,23 +98,6 @@ export const services: Service[] = [
     ],
   },
   {
-    slug: "car",
-    title: "Car Interior Detailing",
-    shortDescription: "Full-interior deep clean. Seats, carpets, headliner — everything.",
-    description:
-      "The inside of your car is basically upholstery on wheels. Same process, same results. We come to your driveway and do the full interior — fabric seats, floor mats, headliner, door panels. Your car will smell clean for weeks.",
-    image: "/images/car-interior.jpg",
-    priceFrom: "$149",
-    duration: "90 min",
-    features: [
-      "Full-interior treatment",
-      "Seats, carpets, headliner, panels",
-      "Mobile service to your driveway",
-      "Pet hair removal included",
-      "Safe for leather interiors",
-    ],
-  },
-  {
     slug: "commercial",
     title: "Commercial & Office",
     shortDescription: "Scheduled cleaning for offices, clinics, restaurants, and short-term rentals.",

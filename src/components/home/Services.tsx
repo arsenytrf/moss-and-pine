@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ArrowRight, Sofa, Layers3, Armchair, BedDouble, Sparkles, Car, Building2 } from "lucide-react";
+import { ArrowRight, Sofa, Layers3, Armchair, BedDouble, Sparkles, Building2 } from "lucide-react";
 import { ScrollReveal } from "@/components/shared/ScrollReveal";
 
 const items = [
@@ -8,7 +8,6 @@ const items = [
   { icon: Armchair, title: "Armchair", href: "/services#armchair", from: "$79" },
   { icon: BedDouble, title: "Mattress", href: "/services#mattress", from: "$99" },
   { icon: Sparkles, title: "Area Rugs", href: "/services#rug", from: "$89" },
-  { icon: Car, title: "Car Interior", href: "/services#car", from: "$149" },
   { icon: Building2, title: "Commercial", href: "/services#commercial", from: "Quote" },
 ];
 
@@ -28,7 +27,7 @@ export function Services() {
               </h2>
             </div>
             <p className="text-stone-500 text-base lg:text-lg max-w-sm">
-              Seven services, one plant-based cleaning method, zero upsells. Everything priced up front.
+              Six services, one plant-based cleaning method, zero upsells. Everything priced up front.
             </p>
           </div>
         </ScrollReveal>

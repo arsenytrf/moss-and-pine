@@ -12,7 +12,6 @@ export const footerLinks = {
     { label: "Armchair Cleaning", href: "/services#armchair" },
     { label: "Mattress Cleaning", href: "/services#mattress" },
     { label: "Area Rug Cleaning", href: "/services#rug" },
-    { label: "Car Interior", href: "/services#car" },
     { label: "Commercial", href: "/services#commercial" },
   ],
   company: [
