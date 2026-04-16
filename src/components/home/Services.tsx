@@ -23,8 +23,8 @@ export function Services() {
                 · What we clean
               </p>
               <h2 className="font-heading font-bold text-4xl sm:text-5xl lg:text-6xl text-forest-950 leading-[1.02]">
-                If fabric&apos;s involved,<br />
-                we can <em className="text-terracotta-500 not-italic font-light italic">probably save it.</em>
+                If it&apos;s fabric,<br />
+                <em className="text-terracotta-500 not-italic font-light italic">we can clean it.</em>
               </h2>
             </div>
             <p className="text-stone-500 text-base lg:text-lg max-w-sm">

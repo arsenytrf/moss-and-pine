@@ -37,9 +37,8 @@ export function Hero() {
               transition={{ duration: 0.7, delay: 0.1 }}
               className="font-heading font-bold text-[2.75rem] sm:text-6xl lg:text-[5.75rem] text-forest-950 leading-[0.95] tracking-tight mb-6 lg:mb-7"
             >
-              Your couch is <em className="text-terracotta-500 not-italic font-light italic">gross.</em>
-              <br />
-              We can fix that.
+              Your couch,<br />
+              <em className="text-terracotta-500 not-italic font-light italic">better than new.</em>
             </motion.h1>
 
             <motion.p
@@ -48,7 +47,7 @@ export function Hero() {
               transition={{ duration: 0.7, delay: 0.2 }}
               className="text-stone-600 text-base lg:text-xl max-w-xl mb-9 leading-relaxed"
             >
-              Deep steam-extraction cleaning with plant-based products. Safe for kids, safe for pets, devastating on stains. We come to you.
+              Deep steam-extraction cleaning with plant-based products. Safe for families, safe for pets, tough on stains and odours. We come to you.
             </motion.p>
 
             <motion.div

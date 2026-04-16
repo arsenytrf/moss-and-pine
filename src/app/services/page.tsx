@@ -25,8 +25,8 @@ export default function ServicesPage() {
             · What we clean
           </p>
           <h1 className="font-heading font-bold text-5xl sm:text-6xl lg:text-[5.5rem] text-forest-950 leading-[0.95] mb-6 max-w-4xl tracking-tight">
-            If fabric&apos;s involved,<br />
-            we can <em className="text-terracotta-500 not-italic font-light italic">probably save it.</em>
+            If it&apos;s fabric,<br />
+            <em className="text-terracotta-500 not-italic font-light italic">we can clean it.</em>
           </h1>
           <p className="text-stone-600 text-lg lg:text-xl max-w-2xl leading-relaxed">
             Seven services, one plant-based cleaning method, zero upsells. Everything priced up front.
