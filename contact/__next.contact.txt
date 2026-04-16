@@ -2,4 +2,4 @@
 2:I[39756,["/moss-and-pine/_next/static/chunks/0clmkwfm_uoy~.js","/moss-and-pine/_next/static/chunks/035_uo2z0l6ch.js","/moss-and-pine/_next/static/chunks/10xs-qv9j8y.-.js"],"default"]
 3:I[37457,["/moss-and-pine/_next/static/chunks/0clmkwfm_uoy~.js","/moss-and-pine/_next/static/chunks/035_uo2z0l6ch.js","/moss-and-pine/_next/static/chunks/10xs-qv9j8y.-.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"YYdO_QIDmKMNB7Ao8gZdh"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"Q17MbnmMITMPhWvw9s_sI"}
