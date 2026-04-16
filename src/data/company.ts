@@ -3,9 +3,9 @@ export const company = {
   fullName: "Moss & Pine Cleaning Co.",
   tagline: "Plant-based upholstery cleaning for Calgary homes. Pet-safe, family-safe, deeply clean.",
   shortPitch: "Calgary's pet-safe, plant-based upholstery and couch cleaning.",
-  phone: "403-000-0000",
-  phoneLink: "tel:+14030000000",
-  email: "hello@mossandpine.ca",
+  phone: "403-473-3153",
+  phoneLink: "tel:+14034733153",
+  email: "info@berkshireblinds.ca",
   address: {
     city: "Calgary",
     province: "AB",
